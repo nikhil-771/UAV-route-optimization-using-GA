@@ -5,5 +5,5 @@ File Structure desription:<br>
 genetic_algorithm.py - actual ga implementation of ga<br>
 helper_function.py - computes haversine distance between two cordinates<br>
 map.py - generates the inital and final map for better visual understanding<br>
-variables.py - stores waypoints / cordinates adn ga constraints
+variables.py - stores waypoints / cordinates and ga constraints
 visualization.py - plots various visual data
